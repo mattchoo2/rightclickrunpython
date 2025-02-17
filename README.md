@@ -1,5 +1,8 @@
 # GUI right click run python in Window 11
-For those who not used to type in command prompt or power shell, this enable you to right click and run python script straight. It will open power shell on the respective folder and run the script in this folder
+For those who not used to type in command prompt or power shell, this enable you to right click and run python script straight. 
+<br><br>It will:
+- open power shell on the respective folder and
+- run the script in this folder
 
 To add a right-click context menu option in Windows 11 that opens PowerShell and runs a selected Python script, follow these steps:
 
